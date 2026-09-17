@@ -1,0 +1,260 @@
+DoUsageStatistics<|||>3<|||>0
+PlinkExecutable<|||>1<|||>
+TableEditorTabsHeight<|||>3<|||>178
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,141,90,60,65,50,108,130,128,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>341,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>101,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+SessionManager_WindowWidth<|||>3<|||>510
+SessionManager_WindowHeight<|||>3<|||>380
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ToolBar2Left<|||>3<|||>11
+ToolBar2Top<|||>3<|||>2
+ToolBarDataLeft<|||>3<|||>343
+ToolBarDataTop<|||>3<|||>2
+ToolBarQueryLeft<|||>3<|||>494
+ToolBarQueryTop<|||>3<|||>2
+StopOnErrorsInBatchMode<|||>3<|||>1
+DisplayBLOBsAsText<|||>3<|||>0
+Delimiter<|||>1<|||>;
+querymemoheight<|||>3<|||>249
+queryhelperswidth<|||>3<|||>191
+dbtreewidth<|||>3<|||>294
+DatabaseFilter<|||>1<|||>
+DataPreviewHeight<|||>3<|||>100
+DataPreviewEnabled<|||>3<|||>0
+sqloutheight<|||>3<|||>160
+FilterPanel<|||>3<|||>0
+WrapLongLines<|||>3<|||>0
+windowstate<|||>1<|||>Maximized
+windowleft<|||>3<|||>0
+windowtop<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,475
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,20
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+MemoEditorWidth<|||>3<|||>471
+MemoEditorHeight<|||>3<|||>195
+MemoEditorWrap<|||>3<|||>0
+TableTools_WindowWidth<|||>3<|||>795
+TableTools_WindowHeight<|||>3<|||>417
+TableTools_TreeWidth<|||>3<|||>219
+TableTools_FindText<|||>1<|||>
+TableTools_Datatype<|||>3<|||>0
+TableTools_FindCaseSensitive<|||>3<|||>0
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_DropDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DropTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>1
+ExportSQL_Output<|||>3<|||>2
+ExportSQL_Filenames<|||>1<|||>000<{{{><}}}>
+ExportSQL_Directories<|||>1<|||>
+CSVImportWindowWidth<|||>3<|||>462
+CSVImportWindowHeight<|||>3<|||>528
+loadfilename<|||>1<|||>D:\Book1.csv
+CSVSeparatorV2<|||>1<|||>,
+CSVEncloserV2<|||>1<|||>"
+CSVTerminator<|||>1<|||>\r\n
+CSVImportFieldsEnclosedOptionallyV2<|||>3<|||>1
+CSVImportFieldEscaperV2<|||>1<|||>"
+CSVImportIgnoreLines<|||>3<|||>0
+CSVImportLowPriority<|||>3<|||>1
+CSVImportLocalNumbers<|||>3<|||>0
+CSVImportDuplicateHandling<|||>3<|||>0
+CSVImportParseMethod<|||>3<|||>1
+Usermanager_WindowWidth<|||>3<|||>735
+Usermanager_WindowHeight<|||>3<|||>532
+Usermanager_ListWidth<|||>3<|||>301
+CopyTable_WindowWidth<|||>3<|||>372
+CopyTable_WindowHeight<|||>3<|||>338
+UpdatecheckLastrun<|||>1<|||>2012-02-08 10:10:28
+SessionManager_ListWidth<|||>3<|||>167
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3
+ColSort_connform.ListSessions<|||>1<|||>0,0
+SingleQueries<|||>3<|||>1
+LogHorizontalScrollbar<|||>3<|||>0
+MainWinMaximized<|||>3<|||>0
+MainWinOnMonitor<|||>3<|||>0
+AutoReconnect<|||>3<|||>0
+AllowMultipleInstances<|||>3<|||>1
+RestoreLastUsedDB<|||>3<|||>1
+PromptSaveFileOnTabClose<|||>3<|||>1
+FontName<|||>1<|||>Courier New
+FontSize<|||>3<|||>9
+TabWidth<|||>3<|||>3
+logsqlnum<|||>3<|||>300
+logsqlwidth<|||>3<|||>2000
+SessionLogsDirectory<|||>1<|||>C:\TEMP
+LogErrors<|||>3<|||>1
+LogUserSQL<|||>3<|||>1
+LogSQL<|||>3<|||>1
+LogInfos<|||>3<|||>1
+LogDebug<|||>3<|||>0
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr Conditional Comment Foreground<|||>3<|||>8421504
+SQL Attr Conditional Comment Background<|||>3<|||>536870911
+SQL Attr Conditional Comment Style<|||>3<|||>2
+SQL Attr Data Type Foreground<|||>3<|||>128
+SQL Attr Data Type Background<|||>3<|||>536870911
+SQL Attr Data Type Style<|||>3<|||>1
+SQL Attr Default Packages Foreground<|||>3<|||>536870911
+SQL Attr Default Packages Background<|||>3<|||>536870911
+SQL Attr Default Packages Style<|||>3<|||>1
+SQL Attr Delimited Identifier Foreground<|||>3<|||>32896
+SQL Attr Delimited Identifier Background<|||>3<|||>536870911
+SQL Attr Delimited Identifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PL/SQL Reserved Word Foreground<|||>3<|||>536870911
+SQL Attr PL/SQL Reserved Word Background<|||>3<|||>536870911
+SQL Attr PL/SQL Reserved Word Style<|||>3<|||>1
+SQL Attr Reserved Word Foreground<|||>3<|||>16711680
+SQL Attr Reserved Word Background<|||>3<|||>536870911
+SQL Attr Reserved Word Style<|||>3<|||>1
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQL*Plus Command Foreground<|||>3<|||>536870911
+SQL Attr SQL*Plus Command Background<|||>3<|||>536870911
+SQL Attr SQL*Plus Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr Table Name Foreground<|||>3<|||>16711935
+SQL Attr Table Name Background<|||>3<|||>536870911
+SQL Attr Table Name Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+SQLColActiveLine<|||>1<|||>clWhite
+MaxColWidth<|||>3<|||>300
+DatagridRowsPerStep<|||>3<|||>1000
+DatagridMaximumRows<|||>3<|||>100000
+GridRowLineCount<|||>3<|||>1
+DataFontName<|||>1<|||>Tahoma
+DataFontSize<|||>3<|||>8
+LogToFile<|||>3<|||>0
+Updatecheck<|||>3<|||>0
+UpdatecheckBuilds<|||>3<|||>0
+UpdatecheckInterval<|||>3<|||>3
+DisplayBars<|||>3<|||>1
+BarColor<|||>3<|||>12320733
+MaxQueryResults<|||>3<|||>10
+FieldColor_Numeric<|||>3<|||>16711680
+FieldColor_Text<|||>3<|||>32768
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Other<|||>3<|||>32896
+Field_NullBackground<|||>3<|||>16711935
+FieldEditor_Binary<|||>3<|||>1
+FieldEditor_Datetime<|||>3<|||>1
+FieldEditor_Enum<|||>3<|||>1
+FieldEditor_Set<|||>3<|||>1
+FieldNull_EnableBackground<|||>3<|||>0
+CompletionProposal<|||>3<|||>1
+TabsToSpaces<|||>3<|||>0
+SelectDBO_WindowWidth<|||>3<|||>248
+SelectDBO_WindowHeight<|||>3<|||>534
+ColWidths_UserManagerForm.listUsers<|||>1<|||>118,179
+ColsVisible_UserManagerForm.listUsers<|||>1<|||>0,1
+ColPositions_UserManagerForm.listUsers<|||>1<|||>0,1
+ColSort_UserManagerForm.listUsers<|||>1<|||>0,0
+GridExportOutputCopy<|||>3<|||>1
+GridExportOutputFile<|||>3<|||>0
+GridExportFilename<|||>1<|||>
+GridExportRecentFiles<|||>1<|||>
+GridExportEncoding<|||>3<|||>4
+GridExportFormat<|||>3<|||>0
+GridExportSelection<|||>3<|||>-1
+GridExportColumnNames<|||>3<|||>1
+GridExportSeparator<|||>1<|||>;
+GridExportEncloser<|||>1<|||>
+GridExportTerminator<|||>1<|||>\r\n
+DateTimeEditor_CursorPos_Type12<|||>3<|||>0
+SQLFile0<|||>1<|||>P:\Carmen_Fix_tool\Script Check AP Payment No Invoice Header.txt
+MainWinLeft<|||>3<|||>525
+MainWinTop<|||>3<|||>168
+MainWinWidth<|||>3<|||>840
+MainWinHeight<|||>3<|||>545
+Servers\Unnamed\ServerVersionFull<|||>1<|||>5.5.5-10.0.15-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>19
+Servers\Unnamed\ServerVersion<|||>3<|||>50505
+Servers\Unnamed\LastConnect<|||>1<|||>2022-03-04 21:36:24
+Servers\Unnamed\lastUsedDB<|||>1<|||>
+Servers\Unnamed\Host<|||>1<|||>DESKTOP-7HUEBFD
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>lotto
+Servers\Unnamed\Password<|||>1<|||>72637575797174662
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>4
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>0
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>25
+Servers\Unnamed\admin|odbcalias\Sort<|||>1<|||>0_Param|
+Servers\Unnamed\bgenex|gblparams\Sort<|||>1<|||>0_KeyField|
+Servers\Unnamed\cgenex|apagehis\Sort<|||>1<|||>0_VnCode|
+Servers\Unnamed\cgenex|apbank\Filter<|||>1<|||>`UserData1` IS NULL
+Servers\Unnamed\cgenex|apbank\RecentFilters\1<|||>1<|||>`UserData1` IS NULL
+Servers\Unnamed\cgenex|gljvd\Filter<|||>1<|||>`JvhSeq` = '461267'
+Servers\Unnamed\cgenex|gljvd\RecentFilters\1<|||>1<|||>`JvhSeq` = '461267'

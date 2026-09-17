@@ -1,0 +1,35 @@
+
+if OBJECT_ID('tempdb..#temp1') is not null Drop table #temp1
+SELECT h.RefId,h.RequestCode,h.CreateBy,d.RefNo,d.Module,d.SubModule,h.DocStatus
+INTO #temp1
+FROM [IN].StoreRequisition h
+     LEFT JOIN [app].WFHis d ON Module='IN' AND SubModule='SR' AND d.RefNoDt =h.RefId 
+--WHERE D.Step=1 
+GROUP BY h.RequestCode,h.CreateBy,d.RefNo,d.Module,d.SubModule,h.RefId,h.DocStatus
+
+
+SELECT t.RefId,t.RequestCode,t.CreateBy,t.RefNo,t.Module,t.SubModule,t.DocStatus,sw.ApprName1,sw.ApprName2
+FROM #temp1 t
+	 LEFT JOIN [in].StoreRequisitionWfHis sw ON t.RefId=sw.RefId
+
+WHERE sw.ApprName1 IS NULL OR sw.ApprName2 IS NULL
+ORDER BY RequestCode
+
+
+
+
+
+
+--SELECT *
+--FROM [APP].WFHis
+
+
+--SELECT  top 1 *
+--FROM [IN].StoreRequisitionWfHis
+
+
+
+
+
+     
+     
